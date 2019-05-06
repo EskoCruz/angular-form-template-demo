@@ -2,7 +2,7 @@
 export interface UserSettings {
   name: string;
   emailOffers: boolean;
-  interfaceSyle: string;
+  interfaceStyle: string;
   subscriptionType: string;
   notes: string;
 }
